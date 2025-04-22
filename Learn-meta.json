@@ -1,0 +1,12 @@
+{
+  "name": "UNIT LEARN LAUNCH",
+  "symbol": "LEARNLCH",
+  "description": "Learn and earn within Unit Network. LEARN incentivizes education — earn tokens by participating in courses, bootcamps, or training programs.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitLearnLaunch/main/LearnLaunch512.png",
+  "creator": {
+    "name": "UNIT LEARN LAUNCH",
+    "site": "https://learn.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
